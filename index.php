@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP - Hello, World! - 2nd commit</title>
+    <title>PHP - Hello, World! - 3rd commit</title>
 </head>
 <body>
-        <h1><?php echo 'Hello World- 2nd commit'; ?></h1>
+        <h1><?php echo 'Hello World- 3rd commit'; ?></h1>
 </body>
 </html>
